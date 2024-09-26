@@ -2112,3 +2112,5 @@
 199	499	7490388128575848	D:/esp32 wifi kuy/wifi_prov_mgr/build/bootloader/bootloader.elf	5e185bceb649f02d
 199	499	7490388128575848	D:/esp32 wifi kuy/wifi_prov_mgr/build/bootloader/bootloader.bin	5e185bceb649f02d
 199	499	7490388128575848	D:/esp32 wifi kuy/wifi_prov_mgr/build/bootloader/bootloader.map	5e185bceb649f02d
+114	1543256	0	CMakeFiles/confserver	f1552be5ec4d9b07
+114	1543256	0	D:/esp32 wifi kuy/wifi_prov_mgr/build/CMakeFiles/confserver	f1552be5ec4d9b07
